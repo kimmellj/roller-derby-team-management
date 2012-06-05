@@ -1,15 +1,15 @@
 <div class="row-fluid">
-	<div class="span3">
+	<div class="span3 hidden-phone">
 		<div class="well sidebar-nav">
 			<ul class="nav nav-list">
 				<li class="nav-header">Actions</li>
-		<li><?php echo $this->Html->link(__('Edit People Team'), array('action' => 'edit', $peopleTeam['PeopleTeam']['person_id'])); ?> </li>
-		<li><?php echo $this->Form->postLink(__('Delete People Team'), array('action' => 'delete', $peopleTeam['PeopleTeam']['person_id']), null, __('Are you sure you want to delete # %s?', $peopleTeam['PeopleTeam']['person_id'])); ?> </li>
-		<li><?php echo $this->Html->link(__('List People Teams'), array('action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New People Team'), array('action' => 'add')); ?> </li>
+				<li><?php echo $this->Html->link(__('Edit People Team'), array('action' => 'edit', $peopleTeam['PeopleTeam']['person_id'])); ?> </li>
+				<li><?php echo $this->Form->postLink(__('Delete People Team'), array('action' => 'delete', $peopleTeam['PeopleTeam']['person_id']), null, __('Are you sure you want to delete # %s?', $peopleTeam['PeopleTeam']['person_id'])); ?> </li>
+				<li><?php echo $this->Html->link(__('List People Teams'), array('action' => 'index')); ?> </li>
+				<li><?php echo $this->Html->link(__('New People Team'), array('action' => 'add')); ?> </li>
 				<li class="nav-header">Related Actions</li>
-		<li><?php echo $this->Html->link(__('List Teams'), array('controller' => 'teams', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Team'), array('controller' => 'teams', 'action' => 'add')); ?> </li>
+				<li><?php echo $this->Html->link(__('List Teams'), array('controller' => 'teams', 'action' => 'index')); ?> </li>
+				<li><?php echo $this->Html->link(__('New Team'), array('controller' => 'teams', 'action' => 'add')); ?> </li>
 			
 			</ul>
 		</div>

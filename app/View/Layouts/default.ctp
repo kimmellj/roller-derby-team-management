@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>IMRG Team Management</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -41,9 +41,15 @@
           <a class="brand" href="#">IMRG Team Management</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active"><?php echo $this->Html->link('People', array('controller' => 'people', 'action' => 'index')); ?></li>
+              <li class="active dropdown">
+				<?php echo $this->Html->link('People', array('controller' => 'people', 'action' => 'index')); ?>
+				<ul class="dropdown-menu">
+					<li><?php echo $this->Html->link('List People', array('controller' => 'people', 'action' => 'index')); ?></li>
+					<li><?php echo $this->Html->link('Add Person', array('controller' => 'people', 'action' => 'add')); ?></li>
+				</ul>
+			  </li>
               <li><?php echo $this->Html->link('Teams', array('controller' => 'teams', 'action' => 'index')); ?></li>
-              <li><?php echo $this->Html->link('Commitees', array('controller' => 'commitees', 'action' => 'index')); ?></li>
+              <li><?php echo $this->Html->link('Committees', array('controller' => 'committees', 'action' => 'index')); ?></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
