@@ -1,0 +1,299 @@
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:51:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 09:54:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:04:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:04:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:04:44 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:19:40 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:21:41 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:26:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:28:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:31:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 10:31:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:44:43 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:46:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:47:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:48:29 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:49:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:49:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:51:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:52:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:54:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:54:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:57:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:57:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 13:57:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:00:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:04:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:04:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CommitteesPerson.person_id' in 'where clause'
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Committ...', Array)
+#2 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT `Committ...', Array, Array)
+#3 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT `Committ...', false)
+#4 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(2698): DboSource->read(Object(AppModel), Array)
+#5 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(1838): Model->find('all', Array)
+#6 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(1734): Model->_saveMulti(Array, '1', Object(Mysql))
+#7 /Users/jamie/Projects/imrg_team/app/Controller/PeopleController.php(43): Model->save(Array)
+#8 [internal function]: PeopleController->add()
+#9 /Users/jamie/Projects/imrg_team/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PeopleController), Array)
+#10 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#12 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-06-05 14:04:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:08:17 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PeopleTeam.id' in 'field list'
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(437): PDOStatement->execute(Array)
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `PeopleT...', Array)
+#2 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT `PeopleT...', Array, Array)
+#3 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(1058): DboSource->fetchAll('SELECT `PeopleT...', false)
+#4 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(2698): DboSource->read(Object(AppModel), Array)
+#5 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(2527): Model->find('all', Array)
+#6 /Users/jamie/Projects/imrg_team/lib/Cake/Model/Model.php(2430): Model->_deleteLinks('2')
+#7 /Users/jamie/Projects/imrg_team/app/Controller/PeopleController.php(95): Model->delete()
+#8 [internal function]: PeopleController->delete('2')
+#9 /Users/jamie/Projects/imrg_team/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PeopleController), Array)
+#10 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#12 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-06-05 14:08:17 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:08:18 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:08:18 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:11:17 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:11:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:12:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:12:50 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:16:21 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:18:05 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:19:00 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:19:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:19:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:19:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
