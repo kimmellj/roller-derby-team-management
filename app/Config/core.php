@@ -229,7 +229,7 @@
  * Uncomment this line and correct your server timezone to fix 
  * any date & time related errors.
  */
-	//date_default_timezone_set('UTC');
+	date_default_timezone_set('America/New_York');
 
 /**
  * Pick the caching engine to use.  If APC is enabled use it.
@@ -275,4 +275,14 @@ Cache::config('_cake_model_', array(
 	'path' => CACHE . 'models' . DS,
 	'serialize' => ($engine === 'File'),
 	'duration' => $duration
+));
+
+Configure::write('inputDefaults', array(
+    'div' => 'control-group',
+    'label' => array(
+        'class' => 'control-label'
+    ),
+    'error' => array('attributes' => array('wrap' => 'span', 'class' => 'help-inline')),
+    'between' => '<div class="controls">',
+    'after' => '</div>'
 ));
