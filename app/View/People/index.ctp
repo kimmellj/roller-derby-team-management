@@ -1,5 +1,5 @@
 <div class="row-fluid">
-	<div class="span3">
+	<div class="span3 hidden-phone">
 		<div class="well sidebar-nav">
 			<ul class="nav nav-list">
 				<li class="nav-header">Actions</li>
@@ -27,7 +27,10 @@
 									<th><?php echo $this->Paginator->sort('state');?></th>
 									<th><?php echo $this->Paginator->sort('zip');?></th>
 									<th><?php echo $this->Paginator->sort('email');?></th>
-									<th><?php echo $this->Paginator->sort('super');?></th>
+									<th><?php echo $this->Paginator->sort('insurance_number');?></th>
+									<th><?php echo $this->Paginator->sort('phone');?></th>
+									<th><?php echo $this->Paginator->sort('emergency_contact_name');?></th>
+									<th><?php echo $this->Paginator->sort('emergency_contact_number');?></th>
 									<th class="actions"><?php echo __('Actions');?></th>
 				</tr>
 			</thead>
@@ -43,7 +46,10 @@
 		<td><?php echo h($person['Person']['state']); ?>&nbsp;</td>
 		<td><?php echo h($person['Person']['zip']); ?>&nbsp;</td>
 		<td><?php echo h($person['Person']['email']); ?>&nbsp;</td>
-		<td><?php echo h($person['Person']['super']); ?>&nbsp;</td>
+		<td><?php echo h($person['Person']['insurance_number']); ?>&nbsp;</td>
+		<td><?php echo h($person['Person']['phone']); ?>&nbsp;</td>
+		<td><?php echo h($person['Person']['emergency_contact_name']); ?>&nbsp;</td>
+		<td><?php echo h($person['Person']['emergency_contact_number']); ?>&nbsp;</td>
 		<td class="actions">
 			<?php echo $this->Html->link(__('View'), array('action' => 'view', $person['Person']['id'])); ?>
 			<?php echo $this->Html->link(__('Edit'), array('action' => 'edit', $person['Person']['id'])); ?>

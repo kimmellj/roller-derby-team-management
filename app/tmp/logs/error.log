@@ -297,3 +297,66 @@
 2012-06-05 14:19:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
 #0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-06-05 14:23:09 Error: [MissingControllerException] Controller class CommiteesController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:24:07 Error: [MissingControllerException] Controller class CommiteesController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:25:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:27:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:29:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:29:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:29:39 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:29:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:30:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:30:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:32:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:32:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:32:18 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:32:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:32:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 14:48:45 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:48:45 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 14:48:45 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-05 15:09:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

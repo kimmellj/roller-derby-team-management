@@ -1,5 +1,5 @@
 <div class="row-fluid">
-	<div class="span3">
+	<div class="span3 hidden-phone">
 		<div class="well sidebar-nav">
 			<ul class="nav nav-list">
 				<li class="nav-header">Actions</li>
@@ -27,7 +27,10 @@
 				echo $this->Form->input('state');
 				echo $this->Form->input('zip');
 				echo $this->Form->input('email');
-				echo $this->Form->input('super');
+				echo $this->Form->input('insurance_number');
+				echo $this->Form->input('phone');
+				echo $this->Form->input('emergency_contact_name');
+				echo $this->Form->input('emergency_contact_number');
 				echo $this->Form->input('Committee');
 				echo $this->Form->input('Team');
 				?>
