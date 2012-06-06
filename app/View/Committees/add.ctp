@@ -19,7 +19,7 @@
 				<legend><?php echo __('Add Committee'); ?></legend>
 				<?php
 				echo $this->Form->input('name');
-				echo $this->Form->input('head');
+				echo $this->Form->input('head', array('type' => 'select', 'options' => $people));
 				echo $this->Form->input('Person');
 				?>
 				<div class="form-actions">

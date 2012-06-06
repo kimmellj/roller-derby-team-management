@@ -1,2 +1,0 @@
-1338923429
-a:2:{s:4:"name";a:7:{i:1391822435;s:22:"`imrg_team_management`";i:-720071869;s:12:"`committees`";i:979398957;s:16:"`Committee`.`id`";i:-1628474863;s:18:"`Committee`.`name`";i:-1899177789;s:18:"`Committee`.`head`";i:-1336175254;s:11:"`Committee`";i:-1684970019;s:7:"`count`";}s:6:"fields";a:2:{s:32:"9532527f3f83907d68c68d96065abe4d";a:3:{i:0;s:16:"`Committee`.`id`";i:1;s:18:"`Committee`.`name`";i:2;s:18:"`Committee`.`head`";}s:32:"a55340791c40ef9842bb683c87793f2f";a:1:{i:0;s:19:"COUNT(*) AS `count`";}}}

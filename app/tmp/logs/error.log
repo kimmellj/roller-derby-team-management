@@ -360,3 +360,56 @@
 2012-06-05 15:09:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
 #0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-06-05 15:14:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 15:14:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 15:15:17 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 15:15:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-06 12:32:42 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:32:42 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:32:43 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:32:48 Error: [MissingActionException] Action PeopleController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:32:59 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:32:59 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:33:00 Error: [MissingActionException] Action CommitteesController::assets() could not be found.
+#0 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(CommitteesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-06 12:49:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-06 12:49:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
