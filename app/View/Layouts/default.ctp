@@ -7,14 +7,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+	<?php echo $this->Html->css('bootstrap.css'); ?>
+	<?php echo $this->Html->css('style.css'); ?>
+	
     <!-- Le styles -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
     </style>
-    <?php echo $this->Html->css('bootstrap.css'); ?>
+    
 
     <!--[if lt IE 9]>
       <?php echo $this->Html->script('http://html5shim.googlecode.com/svn/trunk/html5.js'); ?>

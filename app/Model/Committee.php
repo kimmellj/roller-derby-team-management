@@ -48,5 +48,12 @@ class Committee extends AppModel {
 			'insertQuery' => ''
 		)
 	);
+    
+    public $belongsTo = array(
+        'Head' => array(
+            'className' => 'Person',
+            'foreignKey' => 'head'
+        )
+    );
 
 }

@@ -20,22 +20,31 @@
 		<?php echo $this->Form->create('Person', array('inputDefaults' => Configure::read('inputDefaults')));?>
 			<fieldset>
 				<legend><?php echo __('Edit Person'); ?></legend>
-				<?php
-				echo $this->Form->input('id');
-				echo $this->Form->input('name');
-				echo $this->Form->input('real_name');
-				echo $this->Form->input('address');
-				echo $this->Form->input('city');
-				echo $this->Form->input('state');
-				echo $this->Form->input('zip');
-				echo $this->Form->input('email');
-				echo $this->Form->input('insurance_number');
-				echo $this->Form->input('phone');
-				echo $this->Form->input('emergency_contact_name');
-				echo $this->Form->input('emergency_contact_number');
-				echo $this->Form->input('Committee');
-				echo $this->Form->input('Team');
-				?>
+				
+				<div class="row-fluid">
+					<div class="span6">
+						<?php
+						echo $this->Form->input('id');
+						echo $this->Form->input('name');
+						echo $this->Form->input('real_name');
+						echo $this->Form->input('address');
+						echo $this->Form->input('city');
+						echo $this->Form->input('state');
+						echo $this->Form->input('zip');
+						echo $this->Form->input('email');
+						echo $this->Form->input('insurance_number');
+						echo $this->Form->input('phone');
+						?>						
+					</div>
+					<div class="span6">
+						<?php
+						echo $this->Form->input('emergency_contact_name');
+						echo $this->Form->input('emergency_contact_number');
+						echo $this->Form->input('Committee');
+						echo $this->Form->input('Team');
+						?>						
+					</div>					
+				</div>
 				<div class="form-actions">
 					<input type="submit" value="Submit" class="btn btn-primary" />
 				</div>
