@@ -1,3 +1,4 @@
+<?php echo $this->Html->script('/ckfinder/ckfinder.js'); ?>
 <div class="row-fluid">
 	<div class="span3 hidden-phone">
 		<div class="well sidebar-nav">
@@ -51,3 +52,8 @@
 	</div>
 </div>
 
+<script type="text/javascript">
+var finder = new CKFinder();
+finder.basePath = '/ckfinder/';
+finder.popup();
+</script>

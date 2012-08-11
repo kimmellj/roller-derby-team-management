@@ -2,3 +2,4 @@ app/tmp/cache/models/*
 app/tmp/cache/views/*
 app/tmp/cache/persistent/*
 app/tmp/logs/*
+app/Config/database.php
