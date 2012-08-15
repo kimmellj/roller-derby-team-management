@@ -52,6 +52,7 @@
 			  </li>
               <li><?php echo $this->Html->link('Teams', array('controller' => 'teams', 'action' => 'index')); ?></li>
               <li><?php echo $this->Html->link('Committees', array('controller' => 'committees', 'action' => 'index')); ?></li>
+			  <li><?php echo $this->Html->link('Inventory', array('controller' => 'products', 'action' => 'index')); ?></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

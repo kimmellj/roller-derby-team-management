@@ -413,3 +413,111 @@
 2012-06-06 12:49:27 Error: [MissingControllerException] Controller class AssetsController could not be found.
 #0 /Users/jamie/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-08-15 13:24:17 Warning: Warning (2): include_once(/Users/jamie/Dropbox/Projects/imrg_team/app/Config/database.php): failed to open stream: No such file or directory in [/Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/ConnectionManager.php, line 68]
+Trace:
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 68
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 68
+ConnectionManager::enumConnectionObjects() - CORE/Cake/Model/ConnectionManager.php, line 190
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 110
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 734
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 366
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 404
+PeopleController::index() - APP/Controller/PeopleController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+[main] - APP/webroot/index.php, line 92
+
+2012-08-15 13:24:17 Warning: Warning (2): include_once() [<a href='http://php.net/function.include'>function.include</a>]: Failed opening '/Users/jamie/Dropbox/Projects/imrg_team/app/Config/database.php' for inclusion (include_path='/Users/jamie/Dropbox/Projects/imrg_team/lib:.:/Applications/MAMP/bin/php/php5.4.4/lib/php') in [/Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/ConnectionManager.php, line 68]
+Trace:
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 68
+ConnectionManager::_init() - CORE/Cake/Model/ConnectionManager.php, line 68
+ConnectionManager::enumConnectionObjects() - CORE/Cake/Model/ConnectionManager.php, line 190
+ClassRegistry::init() - CORE/Cake/Utility/ClassRegistry.php, line 110
+Controller::loadModel() - CORE/Cake/Controller/Controller.php, line 734
+Controller::__isset() - CORE/Cake/Controller/Controller.php, line 366
+Controller::__get() - CORE/Cake/Controller/Controller.php, line 404
+PeopleController::index() - APP/Controller/PeopleController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 103
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 85
+[main] - APP/webroot/index.php, line 92
+
+2012-08-15 13:24:19 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/ConnectionManager.php(94): ConnectionManager::_getConnectionObject('default')
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3417): ConnectionManager::getDataSource('default')
+#2 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#3 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3443): Model->setSource('people')
+#4 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#5 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#6 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#7 /Users/jamie/Dropbox/Projects/imrg_team/app/Controller/PeopleController.php(18): Controller->paginate()
+#8 [internal function]: PeopleController->index()
+#9 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PeopleController), Array)
+#10 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#11 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#12 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2012-08-15 13:24:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:24:23 Error: [MissingControllerException] Controller class MobiquoController could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 13:30:40 Error: [MissingConnectionException] Database connection "SQLSTATE[28000] [1045] Access denied for user 'imrg'@'localhost' (using password: YES)" is missing, or could not be created.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(245): Mysql->connect()
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3417): ConnectionManager::getDataSource('default')
+#3 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#4 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3443): Model->setSource('people')
+#5 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#6 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#7 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Users/jamie/Dropbox/Projects/imrg_team/app/Controller/PeopleController.php(18): Controller->paginate()
+#9 [internal function]: PeopleController->index()
+#10 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PeopleController), Array)
+#11 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#12 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#13 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2012-08-15 13:43:17 Error: [MissingConnectionException] Database connection "SQLSTATE[28000] [1045] Access denied for user 'imrg'@'localhost' (using password: YES)" is missing, or could not be created.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Datasource/DboSource.php(245): Mysql->connect()
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3417): ConnectionManager::getDataSource('default')
+#3 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(1083): Model->setDataSource('default')
+#4 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(3443): Model->setSource('people')
+#5 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#6 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#7 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Users/jamie/Dropbox/Projects/imrg_team/app/Controller/PeopleController.php(18): Controller->paginate()
+#9 [internal function]: PeopleController->index()
+#10 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PeopleController), Array)
+#11 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#12 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PeopleController), Object(CakeRequest), Object(CakeResponse))
+#13 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2012-08-15 14:56:13 Error: [MissingControllerException] Controller class ProductsController could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 14:59:42 Error: [MissingViewException] View file "/Users/jamie/Dropbox/Projects/imrg_team/app/View/Products/index.ctp" is missing.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-08-15 15:02:38 Error: [MissingControllerException] Controller class AssetsController could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-08-15 15:05:11 Error: [MissingActionException] Action ProductOptionsController::assets() could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(ProductOptionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-08-15 15:06:51 Error: [MissingActionException] Action ProductsController::assets() could not be found.
+#0 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/jamie/Dropbox/Projects/imrg_team/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/jamie/Dropbox/Projects/imrg_team/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
