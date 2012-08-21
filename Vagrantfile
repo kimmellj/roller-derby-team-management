@@ -73,7 +73,7 @@ Vagrant::Config.run do |config|
   #   chef.add_role "web"
   #
   #   # You may also specify custom JSON attributes:
-     chef.json = { "apache" => {"default_modules" => ["mod_php5"]}, :mysql_password => "webdeveloper" }
+     chef.json = { "apache" => {"default_modules" => ["mod_php5","mod_rewrite"]}, :mysql_password => "webdeveloper" }
    end
 
   # Enable provisioning with chef server, specifying the chef server URL,
