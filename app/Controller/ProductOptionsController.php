@@ -14,6 +14,8 @@ class ProductOptionsController extends AppController {
  * @return void
  */
 	public function index() {
+		
+		
 		$this->ProductOption->recursive = 0;
 
 		if (!empty($this->request->data)) {

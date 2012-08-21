@@ -3,7 +3,7 @@
         <div class="well sidebar-nav">
             <ul class="nav nav-list">
                 <li class="nav-header">Actions</li>
-                <li><?php echo $this->Html->link(__('New Product Option'), array('action' => 'add')); ?></li>
+                <li><?php echo $this->Html->link(__('New Product Option'), array('action' => 'add', 'product_id' => $product_id)); ?></li>
                 <li class="nav-header">Related Actions</li>
                 <li><?php echo $this->Html->link(__('List Products'), array('controller' => 'products', 'action' => 'index')); ?> </li>
                 <li><?php echo $this->Html->link(__('New Product'), array('controller' => 'products', 'action' => 'add')); ?> </li>
