@@ -13,9 +13,7 @@ class ProductOptionsController extends AppController {
  *
  * @return void
  */
-	public function index() {
-		
-		
+	public function index($productID) {
 		$this->ProductOption->recursive = 0;
 
 		if (!empty($this->request->data)) {
@@ -23,7 +21,10 @@ class ProductOptionsController extends AppController {
 			$this->redirect(array('action' => 'index'));
 		}
 		
-		$this->set('productOptions', $this->paginate());
+		$conditions = array('product_id' => $productID);
+		
+		$this->set('productOptions', $this->paginate($conditions));
+		$this->set('product_id', $productID);
 	}
 
 /**
@@ -50,11 +51,16 @@ class ProductOptionsController extends AppController {
 			$this->ProductOption->create();
 			if ($this->ProductOption->save($this->request->data)) {
 				$this->Session->setFlash(__('The product option has been saved'));
-				$this->redirect(array('action' => 'index'));
+				$this->redirect(array('action' => 'index', $this->request->data['ProductOption']['product_id']));
 			} else {
 				$this->Session->setFlash(__('The product option could not be saved. Please, try again.'));
 			}
 		}
+		
+		if (!empty($this->request->named['product_id']) && empty($this->request->data)) {
+			$this->request->data = array('ProductOption' => array('product_id' => $this->request->named['product_id']));
+		}
+		
 		$products = $this->ProductOption->Product->find('list');
 		$this->set(compact('products'));
 	}
@@ -73,7 +79,7 @@ class ProductOptionsController extends AppController {
 		if ($this->request->is('post') || $this->request->is('put')) {
 			if ($this->ProductOption->save($this->request->data)) {
 				$this->Session->setFlash(__('The product option has been saved'));
-				$this->redirect(array('action' => 'index'));
+				$this->redirect(array('action' => 'index', $this->request->data['ProductOption']['product_id']));
 			} else {
 				$this->Session->setFlash(__('The product option could not be saved. Please, try again.'));
 			}
@@ -98,11 +104,14 @@ class ProductOptionsController extends AppController {
 		if (!$this->ProductOption->exists()) {
 			throw new NotFoundException(__('Invalid product option'));
 		}
+		
+		$product_id = $this->ProductOption->field('product_id');
+		
 		if ($this->ProductOption->delete()) {
 			$this->Session->setFlash(__('Product option deleted'));
-			$this->redirect(array('action' => 'index'));
+			$this->redirect(array('action' => 'index', $product_id));
 		}
 		$this->Session->setFlash(__('Product option was not deleted'));
-		$this->redirect(array('action' => 'index'));
+		$this->redirect(array('action' => 'index', $product_id));
 	}
 }
